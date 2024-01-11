@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Minecraft Server full-stack app :) (closed source)**
 
-- 🌱 I’m currently learning **Vue, React, Postgres...**
+- 🌱 I’m currently working and learning more about **Vue, React, Postgres...**
 
 - 👯 I’m looking to collaborate on **useful open source projects, soon...**
 
