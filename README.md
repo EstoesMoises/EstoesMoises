@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moisés</h1>
 <h3 align="center">🧩 Learning the pieces of programming. Currently learning full-stack engineering.</h3>
 
-- 🔭 I’m currently working on **a Minecraft Server full-stack app :)**
+- 🔭 I’m currently working on **a Minecraft Server Project with some friend**
 
 - 🌱 I’m currently working and learning more about **Vue, React, Postgres...**
 
