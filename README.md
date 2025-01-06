@@ -13,7 +13,6 @@ Hi there! 👋 I'm Moises, a beginner in the world of development. I'm currently
 
 ### Learning Full-Stack Development
 - Diving deep into front-end and back-end technologies.
-- Experimenting with small projects to reinforce my understanding.
 - Building a portfolio to showcase my progress and skills.
 
 ### Minecraft Server Project
@@ -25,12 +24,6 @@ Hi there! 👋 I'm Moises, a beginner in the world of development. I'm currently
 - **Programming languages**: JavaScript, C#, Python, and Java.
 - **Web Development**: HTML, CSS, React, Vue, SvelteKit, Node.js and Deno (in progress).
 - **Tools & Workflows**: Git, Docker, Portainer, Coolify, Jenkins, Linux, Headscale....
-
-## My Goals
-
-- Build a portfolio of projects to demonstrate my learning journey.
-- Gain hands-on experience by working on my personal projects and contributing to open-source projects.
-- Collaborate with others to learn and grow together.
 
 ## How to Connect
 
