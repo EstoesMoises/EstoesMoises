@@ -9,16 +9,6 @@ Hi there! 👋 I'm Moises, a beginner in the world of development. I'm currently
 - **Project Explorer**: Learning by doing—working on projects like Minecraft Server management, creating internal and custom plugins and CI/CD workflows, and looking forward to opportunities to contribute to Open-Source software tools.
 - **Open-Minded Learner**: Continuously growing through hands-on experience and engaging with the community.
 
-## What I'm Working On
-
-### Learning Full-Stack Development
-- Diving deep into front-end and back-end technologies.
-- Building a portfolio to showcase my progress and skills.
-
-### Minecraft Server Project
-- Configuring infrastructure, while developing and customizing plugins for a controlled anarchy server, TorkenCraft (coming soon).
-- Learned version control and deployment workflows through real-world applications.
-
 ## Skills I'm Building
 
 - **Programming languages**: JavaScript, C#, Python, and Java.
