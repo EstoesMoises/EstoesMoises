@@ -6,7 +6,7 @@ Right now, I’m deep into **web development** and always picking up side projec
 
 ## About Me 🙋‍♂️
 
-* **Technical Support Engineer @ Stack Overflow** — mostly working on dev projects, APIs, and integrations.
+* **Technical Service Manager @ Stack Overflow** — mostly working on dev projects, APIs, and integrations.
 * **Fullstack Web Dev** — keeping it clean, simple, secure, and fast in a world of bloated SPAs.
 * **Project Explorer** — Learning by doing—working on projects like Minecraft Server management, creating internal and custom plugins, and setting up CI/CD workflows.
 * Big fan of learning by doing, and sharing what I figure out along the way.
