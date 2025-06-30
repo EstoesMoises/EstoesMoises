@@ -1,6 +1,4 @@
-# Hey! 👋
-
-I'm Moises — just a guy with a PC that is too curious to stop creating stuff with it.
+I'm Moises. Just a guy with a PC that is too curious to stop creating stuff with it.
 
 Right now, I’m deep into **web development** and always picking up side projects for fun (and to keep leveling up). It’s all about experimenting, learning, and stitching together ideas into working things.
 
@@ -14,9 +12,11 @@ Right now, I’m deep into **web development** and always picking up side projec
 ## Recent Projects I’m Proud Of 🖥️
 
 * [Backstage + Stack Overflow for Teams integration](https://github.com/StackExchange/backstage-stackoverflow)
+* [TorkenCraft Minecraft Server](https://torkencraft.es/)
 
 ## Let’s Connect 🤝
 
 * **dev.to**: [estoesmoises](https://dev.to/estoesmoises)
 * **LinkedIn**: [Moises Pérez](https://www.linkedin.com/in/moisesiperez/)
 * **Discord**: estoesmoises
+* **My Software Company**: [letuscook.tech](https://letuscook.tech/)
