@@ -1,12 +1,11 @@
 I'm Moises. Just a guy with a PC that is too curious to stop creating stuff with it.
 
-## About Me
+Currently working as a Technical Service Manager @ Stack Overflow, where AI learns all the marvelous code that powers my daily frustration when I go on a vibe-coding spree. I'm tasked with improving customer-facing technical operations and just do things that I believe are cool :D (it seems to work).
 
-* **Technical Service Manager @ Stack Overflow** improving customer-facing technical operations.
-* **Fullstack Web Dev** keeping it clean, simple, secure, and fast in a world of bloated SPAs.
-* **Project Explorer** learning by doing. Working on projects like Minecraft Server management, creating internal and custom plugins, and setting up CI/CD workflows.
-* Big fan of learning by doing, and sharing what I figure out along the way.
+Building and learning new things is a constant drive. Sitting at my desktop with a new idea truly feels like the only limit is imagination and I have all the power in my hands a keyboard to code whatever comes to mind and perhaps it's that bit of ignorance that helps push through the pain behind programming and tackling new projects.
 
+Hopefully, spending half a lifetime opening a code editor will help keep the brain from aging too quickly (or that's what I'll keep telling myself).
+  
 ## Recent Projects I’m Proud Of
 
 * [Backstage + Stack Overflow for Teams integration](https://github.com/StackExchange/backstage-stackoverflow)
