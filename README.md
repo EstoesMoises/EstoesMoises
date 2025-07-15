@@ -1,4 +1,4 @@
-I'm Moises. Just a guy with a PC that is too curious to stop creating stuff with it.
+I'm Moises, just a guy with a computer, internet connection, and way too much curiosity for my own good. I hold the delusion that this is all you really need to start making cool stuff.
 
 Currently working as a **Technical Service Manager** @ **[Stack Overflow](https://stackoverflow.com/)**, where AI learns all the marvelous code that powers my frustration when I go on a vibe-coding spree. I'm tasked with improving customer-facing technical operations and just do things that I believe are cool :D (it seems to work).
 
