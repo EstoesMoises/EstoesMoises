@@ -17,3 +17,5 @@ Hopefully, spending half a lifetime opening a code editor will help keep the bra
 * **LinkedIn**: [Moises Pérez](https://www.linkedin.com/in/moisesiperez/)
 * **Discord**: estoesmoises
 * **My Software Company**: [letuscook.tech](https://letuscook.tech/)
+
+[![EstoesMoises's GitHub stats](https://github-readme-stats.vercel.app/api?username=estoesmoises)](https://github.com/anuraghazra/github-readme-stats)
