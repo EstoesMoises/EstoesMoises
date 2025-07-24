@@ -19,5 +19,4 @@ Hopefully, spending half a lifetime opening a code editor will help keep the bra
 * **My Software Company**: [letuscook.tech](https://letuscook.tech/)
 
 [![EstoesMoises's GitHub stats](https://githubstats.estoesmoises.me/api?username=estoesmoises&theme=swift&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://githubstats.estoesmoises.me/api/top-langs/?username=estoesmoises&size_weight=0.5&count_weight=0.5&exclude_repo=stack-api-utilities&layout=compact&hide=MDX&langs_count=5&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://githubstats.estoesmoises.me/api/top-langs/?username=estoesmoises&size_weight=0.5&count_weight=0.5&exclude_repo=stack-api-utilities&hide=MDX&langs_count=5&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
