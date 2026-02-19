@@ -1,8 +1,8 @@
 I'm Moisés, someone with a computer, internet connection, and far too much curiosity for his own good. I'm convinced that's all you really need to start building cool stuff. 
 
-Building and learning new things is a constant drive. Sitting at my desktop with a new idea truly feels like the only limit is my imagination and I have all the power in my hands - a keyboard - to code whatever comes to mind. 
+Building and learning new things is a constant drive. Sitting at my desktop with a new idea truly feels like **the only limit is my imagination** and I have all the power in my hands - a keyboard - to code whatever comes to mind. 
 
-Maybe a bit of reckless optimism is what makes starting ambitious projects possible in the first place ;)
+_Maybe a bit of reckless optimism is what makes starting ambitious projects possible in the first place ;)_
   
 ## Recent Projects I’m Proud Of
 
